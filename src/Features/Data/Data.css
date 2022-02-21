@@ -1,0 +1,17 @@
+.userData {
+  display: flex;
+  justify-content: start;
+  gap: 10px;
+}
+.completed {
+  margin-top: 1px;
+}
+.buttons {
+  list-style: none;
+  display: flex;
+}
+.buttons p {
+  padding: 10px;
+  border: 1px solid black;
+  cursor: pointer;
+}
